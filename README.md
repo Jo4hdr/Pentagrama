@@ -2,7 +2,7 @@
 
 ## ¿De qué trata mi sitio web?
 
-**Pentagrama** es un sitio web pensado para una empresa relacionada con la música. Su objetivo es ofrecer en un solo lugar productos y servicios relacionados con este campo.
+Pentagrama es un sitio web pensado para una empresa relacionada con la música. Su objetivo es ofrecer en un solo lugar productos y servicios relacionados con este campo.
 
 En el sitio se podrán consultar y comprar instrumentos musicales y accesorios, conocer sus características, precios y disponibilidad. También se podrán consultar diferentes clases de música, conocer la información de cada servicio y realizar solicitudes.
 
