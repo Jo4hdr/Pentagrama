@@ -1,0 +1,17 @@
+/* Estilos propios de Pentagrama */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    transition: 0.2s;
+}
+
+button {
+    transition: 0.2s;
+}
